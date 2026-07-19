@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Large spark in the center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,22 L58.4,41.6 L78,46 L58.4,50.4 L54,70 L49.6,50.4 L30,46 L49.6,41.6 Z" />
+        
+    <!-- Small spark top right -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M78,24 L80,31.2 L87.2,33.2 L80,35.2 L78,42.4 L76,35.2 L68.8,33.2 L76,31.2 Z" />
+        
+    <!-- Small spark bottom left -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M30,68 L31.5,73.4 L36.9,74.9 L31.5,76.4 L30,81.8 L28.5,76.4 L23.1,74.9 L28.5,73.4 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI",
+  "description": "An AI-powered conversational and image generation companion to solve tasks and spark creativity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
